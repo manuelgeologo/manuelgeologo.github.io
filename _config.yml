@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Manuel Hernández"
   avatar           : "perfil.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "structural Geologist"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/manuelhernandez"
+  researchgate     : "https://www.researchgate.net/profile/Manuel_Hernandez18"
   uri              :
   bitbucket        :
   codepen          :
