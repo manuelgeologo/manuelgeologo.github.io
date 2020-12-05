@@ -17,16 +17,15 @@ Clase de geomorfología eólica
 
 [Download paper here](http://manuelgeologo.github.io/files/Auxiliar_8.pdf)
 
-======
+
 Class 7
 ======
 Clase de geomorfología costera
 
 [Download paper here](http://manuelgeologo.github.io/files/Auxiliar_7.pdf)
-======
+
 Class 6
 ======
 
 Clase de introducción de remociones en masa
 [Download paper here](http://manuelgeologo.github.io/files/Auxiliar_6.pdf)
-======
