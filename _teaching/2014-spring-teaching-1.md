@@ -3,7 +3,7 @@ title: "Auxiliar Geomorfología 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
-venue: "Universidad de Chile, Departamento de Geología"
+venue: "University of Chile, Department of Geology"
 date: 2020-07-01
 location: "Santiago, Chile"
 ---
